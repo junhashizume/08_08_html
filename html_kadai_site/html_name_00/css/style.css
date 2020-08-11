@@ -1,0 +1,45 @@
+/* ここから下に記載していく */
+.a{
+    color:#ffd61a;
+}
+
+.box1{
+    display: flex;
+    justify-content: left;  
+    margin: 0 auto;
+
+}
+
+.box2{
+    display: flex;
+    justify-content: right;
+}
+
+/* box3 */
+.box3{
+   width: 100px;
+   height: 100px;
+   background: url(img/mainbg.png;) no-repeat center center;
+   background-size: cover;
+   margin: 0 auto;
+}
+
+.box3_sekai{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: ;
+}
+
+.box3_cheeseshokunin{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+}
+
+.header{
+    display: flex;
+    justify-content: right;
+}
